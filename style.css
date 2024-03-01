@@ -1,0 +1,29 @@
+.nav{
+	width:450px;
+	height:200px;
+	display:flex;
+	background:#28989D;
+	justify-content:center;
+	text-align:center;
+	margin: 40px auto;
+	border-bottom: 5px solid #166688;
+	
+}
+
+img{
+	width:200px;
+	height:150px;
+	margin-top:20px;
+	margin-right:20px;
+	
+}
+
+.descp{
+	margin-top:15px;
+	margin-left: 5px;
+
+	
+}
+
+
+
